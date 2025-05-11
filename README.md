@@ -3,18 +3,18 @@
 I'm a third-year student at the University of Western Australia, studying a double degree in **Chemical Engineering (Honours)** and **Computer Science**. 
 I'm passionate about solving real-world problems through a mix of data, mathematics, and code — whether it's optimising a process or exploring financial markets.
 
-## 🔍 Interests
+## Interests
 - Quantitative research and algorithmic trading
 - Process optimisation and simulation
 - Teaching STEM and making complex ideas intuitive
 
-## 🧠 Currently Learning
+## Currently Learning
 - Statistical arbitrage & backtesting strategies
 - Portfolio optimisation and risk models
 - Process control systems and predictive modelling
 - Software design for scalable analysis tools
 
-## 🧩 Skills
+## Skills
 - **Languages**: Python (NumPy, pandas, matplotlib), C++, SQL, Java
 - **Tools**: Git, Streamlit, LaTeX, Excel, HYSYS  
 - **Domains**: Data analysis, financial modelling, process simulation, teaching
